@@ -66,7 +66,3 @@ The objective is to classify sonar signals as **Rock** or **Mine** using supervi
 * Model successfully distinguishes rocks from mines using sonar data.
 
 ---
-
----
-
-👉 Do you want me to also make a **Google Colab badge + direct link setup** for your repo (so users can just click and open your notebook), or should I keep it simple with just instructions?
