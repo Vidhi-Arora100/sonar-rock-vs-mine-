@@ -50,7 +50,7 @@ The objective is to classify sonar signals as **Rock** or **Mine** using supervi
 ## 🚀 Running the Project on Colab
 
 1. Open the Colab notebook:
-   [![Open In Colab](https://colab.research.google.com/drive/1S5lRrlTpSHk1BKSquHjOkxBeB1zSGJcv#scrollTo=GWNAgKaar0Nn)
+   [![Open In Colab]
 
 2. Make a copy in your Google Drive.
 
